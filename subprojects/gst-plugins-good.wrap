@@ -2,4 +2,4 @@
 directory=gst-plugins-good
 url=https://github.com/pedro-alves-ferreira/gst-plugins-good.git
 push-url=https://github.com/pedro-alves-ferreira/gst-plugins-good.git
-revision=master
+revision=20210618-compile-vpx
